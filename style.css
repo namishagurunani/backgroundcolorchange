@@ -23,6 +23,12 @@ body{
     box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
     transition: background-color 0.3s ease, transform 0.2s ease;
 }
+#colorButton:hover{
+    height: 2.2rem;
+    width: 12.8rem;
+    padding: 10px 20px;
+    text-align: center;
+}
 .button-enlarged {
     transform: scale(1.2);
 }
