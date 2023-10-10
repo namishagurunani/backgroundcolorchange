@@ -1,5 +1,6 @@
 # backgroundcolorchange
-![image](https://github.com/namishagurunani/backgroundcolorchange/assets/126158413/00a01641-d58e-4a91-9c82-7f5fea2a1575)
+![image](https://github.com/namishagurunani/backgroundcolorchange/assets/126158413/a434f05d-46c1-42b6-97ed-bd116d2d3972)
+
 
 ### HTML EXPLANATION- 
 - The HTML document defines a basic web page structure.
